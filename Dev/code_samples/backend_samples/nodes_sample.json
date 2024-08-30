@@ -1,0 +1,19 @@
+{
+
+"nodes": [
+    {
+        "Node_ID": 1,
+        "Node_type": "CAN",
+        "Startup_method":"Sim_startup",
+        "Other_settings":"DUMMY_DATA"
+    },
+    {
+        "Node_ID": 2,
+        "Node_type": "CAN",
+        "Startup_method":"Sim_startup",
+        "Other_settings":"DUMMY_DATA"
+    }
+]
+
+
+}
